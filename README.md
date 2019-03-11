@@ -1,5 +1,5 @@
 # Anagram Game
-# Shivam Mehrotra
+# Shivam
 
 This program uses a clever application of hash tables/an unordered map in order to create a text based jumble game.
 
