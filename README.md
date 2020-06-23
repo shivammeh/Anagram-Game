@@ -3,7 +3,7 @@
 This program uses a clever application of hash tables/an unordered map in order to create a text based jumble game.
 
 # How to use:
-The program is called jumble and requires a single command-line argument specifying a dictionary file.  For example:
+The program is called jumble and requires a single command-line argument specifying a dictionary file. First run the make file by doing make jumble in a unix terminal, after you can run jumble with a sample dictionary file, For example:
 
 ./jumble dictionary-small.txt
 
