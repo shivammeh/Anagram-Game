@@ -1,13 +1,13 @@
 # Anagram Game
-# Shivam
 
 This program uses a clever application of hash tables/an unordered map in order to create a text based jumble game.
 
+# How to use:
 The program is called jumble and requires a single command-line argument specifying a dictionary file.  For example:
 
 ./jumble dictionary-small.txt
 
-Overview of what the program does when compiled and ran:
+# What happens when ran:
 
 The user does one of the following:
  a) enter a string of characters (presumably a jumbled version of one or more English words).
